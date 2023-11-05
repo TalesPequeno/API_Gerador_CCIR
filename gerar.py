@@ -132,6 +132,7 @@ class App(ctk.CTk):
                     campo_site.send_keys(dado_coluna_E)
                     time.sleep(1)
 
+                    # Altera a coordenada do Sou Humano do seu navegador (Google Chrome):
                     coordenada_x = 200
                     coordenada_y = 700
 
@@ -145,6 +146,7 @@ class App(ctk.CTk):
 
                     download_incompleto = True
                     timeout = 10
+                    # Altera o caminho de onde é salvo o download
                     caminho_download = "C:/Users/Tales/Downloads"
                     novo_nome = f"CCIR 2023 - {dado_coluna_G}.pdf"
 

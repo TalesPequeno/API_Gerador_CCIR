@@ -28,3 +28,22 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 * selenium: `pip install selenium`
 * openpyxl: `pip install openpyxl`
 
+### **4. Preencha os dados no main.py conforme seu computador:**
+
+* Linha 136: coordenada_x = 200 --> Coloque a coordenada X do seu navegador
+* Linha 137: coordenada_y = 700 --> Coloque a coordenada Y do seu navegador
+* Linha 150: caminho_download = "C:/Users/Tales/Downloads" --> Coloque o caminho de onde é salvo o arquivo
+
+### **5. Execute o programa pelo terminal:**
+* Digite `python gerar.py`
+
+### **6. Execute o programa pelo terminal:**
+* Seleciona o caminho do excel com os dados dos clientes, com as seguintes especificações:
+Coluna A= Código do Imóvel Rural
+Coluna B= Estado
+Coluna C= Município
+Coluna E= CPF do Declarante
+Coluna G= Nome do Declarante
+Segue uma imagem de exemplo:
+![Exemplo_excel](https://uploaddeimagens.com.br/imagens/F8sxBzs)
+

@@ -39,11 +39,11 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 
 ### **6. Execute o programa pelo terminal:**
 * Seleciona o caminho do excel com os dados dos clientes, com as seguintes especificações:
-Coluna A= Código do Imóvel Rural
-Coluna B= Estado
-Coluna C= Município
-Coluna E= CPF do Declarante
-Coluna G= Nome do Declarante
-Segue uma imagem de exemplo:
+* Coluna A= Código do Imóvel Rural
+* Coluna B= Estado
+* Coluna C= Município
+* Coluna E= CPF do Declarante
+* Coluna G= Nome do Declarante
+* Segue uma imagem de exemplo:
 <img src="https://uploaddeimagens.com.br/images/004/656/533/original/Exemplo_excel.png?1699216681">
 

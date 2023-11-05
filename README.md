@@ -45,5 +45,5 @@ Coluna C= Município
 Coluna E= CPF do Declarante
 Coluna G= Nome do Declarante
 Segue uma imagem de exemplo:
-[Exemplo_excel](https://uploaddeimagens.com.br/imagens/F8sxBzs)
+<img src="https://uploaddeimagens.com.br/imagens/F8sxBzs">
 

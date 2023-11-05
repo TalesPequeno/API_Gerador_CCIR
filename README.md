@@ -14,7 +14,9 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 
 ## Como executar:
 ### **1. Instale `Python` na sua máquina, por meio [deste link](https://www.python.org/)**
+
 ### **2. Faça um clone [desse repositório](https://github.com/TalesPequeno/API_Gerador_CCIR.git) na sua máquina:**
+
 * Crie uma pasta no seu computador para esse programa, recomendo colocar o nome **API_Gerador_CCIR**
 * Abra o `git bash` ou `terminal` dentro dessa pasta
 * Copie a [URL](https://github.com/TalesPequeno/API_Gerador_CCIR.git) do repositório
@@ -23,8 +25,6 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 ### **3. Instale as bibliotecas necessárias pelo terminal, dentro dessa pasta criada:**
 
 * customtkinter: `pip install customtkinter`
-
 * selenium: `pip install selenium`
-
 * openpyxl: `pip install openpyxl`
 

@@ -30,15 +30,20 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 
 ### **4. Preencha os dados no main.py conforme seu computador:**
 
-* Linha 136: coordenada_x = 200 --> Coloque a coordenada X do seu navegador
-* Linha 137: coordenada_y = 700 --> Coloque a coordenada Y do seu navegador
-* Linha 150: caminho_download = "C:/Users/Tales/Downloads" --> Coloque o caminho de onde é salvo o arquivo
-
+```py 
+    # Altera a coordenada do Sou Humano do seu navegador (Google Chrome):
+    coordenada_x = 200
+    coordenada_y = 700
+```
+```py
+    # Altera o caminho de onde é salvo o download
+    caminho_download = "C:/Users/Tales/Downloads"
+```
 ### **5. Execute o programa pelo terminal:**
 * Digite `python gerar.py`
 
 ### **6. Execute o programa pelo terminal:**
-* Seleciona o caminho do excel com os dados dos clientes, com as seguintes especificações:
+* 1- Seleciona o caminho do excel com os dados dos clientes, com as seguintes especificações:
 * Coluna A= Código do Imóvel Rural
 * Coluna B= Estado
 * Coluna C= Município
@@ -47,3 +52,9 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 * Segue uma imagem de exemplo:
 <img src="https://uploaddeimagens.com.br/images/004/656/533/original/Exemplo_excel.png?1699216681">
 
+* A Coluna D e F no momento não está sendo utilizado, mas no ftuuro irei atualizar a API para verificar as duas colunas.
+
+* 2- Coloca no campo "Linha de Início" qual linha começa os dados do clientes no excel.
+* 3- Coloca no campo "Linha de Término" qual linha termina os dados do clientes no excel.
+
+* 4- Clicar em "Gerar" e aguardar o processo.

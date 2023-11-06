@@ -52,7 +52,7 @@ Este é um projeto em Python com integração de Excel para criar automaticament
 * Segue uma imagem de exemplo:
 <img src="https://uploaddeimagens.com.br/images/004/656/533/original/Exemplo_excel.png?1699216681">
 
-* A Coluna D e F no momento não está sendo utilizado, mas no ftuuro irei atualizar a API para verificar as duas colunas.
+* As Colunas D e F no momento não estão sendo utilizados, mas no futuro irei atualizar a API para verificar as duas colunas.
 
 * 2- Coloca no campo "Linha de Início" qual linha começa os dados do clientes no excel.
 * 3- Coloca no campo "Linha de Término" qual linha termina os dados do clientes no excel.
